@@ -1,4 +1,4 @@
-Olá, sou a __Stefânia Lisboa__, em processo de transição de carreira.
+Olá, sou a Stefânia Lisboa e estou em processo de transição de carreira.
 
 - 🚀 Isso aqui é só o começo
 - 🌱 Inicialmente estou conhecendo o JS
